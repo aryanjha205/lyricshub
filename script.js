@@ -8,14 +8,14 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Gulabi Ankhiyan,Jubin Nautiyal, Sakshi Holkar", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName: "Jeena Haraam, Tanishk Bagchi, Vishal Mishra, Shilpa Rao", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "Gulabi Ankhiyan,Jubin Nautiyal", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "Jeena Haraam,Vishal Mishra", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "Tiranga, B Praak", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Akhiyaan Gulaab,Mitraz", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
-    {songName: "Tum Se,Raghav Chaitanya, Sachin Jigar, and Varun Jain", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Hanuman Karenge Kalyan,Hansraj Raghuwanshi", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
-    {songName: "Kamsin Kali, Tony Kakkar, Neha Kakkar", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
-    {songName: " Ghagra,  Romy, Srushti Tawade", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
+    {songName: "Tum Se,Raghav Chaitanya", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
+    {songName: "Hanuman Karenge Kalyan,Hansraj", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
+    {songName: "Kamsin Kali, Tony Kakkar", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
+    {songName: " Ghagra,  Romy", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
     {songName: " Maroon Color Sadiya,Om jha", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
     
     
